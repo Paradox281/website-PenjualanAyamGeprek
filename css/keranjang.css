@@ -1,0 +1,36 @@
+.btn {
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 10px 10px 0;
+    padding: 14px 20px;
+    background: #E74C3C;
+    color: #fff;
+    font-weight: bold;
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1;
+    *display : inline;
+    *zoom : 1;
+    position: relative;
+    text-transform: uppercase;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+  }
+  
+  .btn:hover {
+    color: #ccc;
+  }
+body{
+    background-image: url('../images/floor1.jpg');
+}
+table{
+    width: 80%; margin: 50px;
+}
+p,th,td{
+    color: white;
+}
+p{
+    text-align: center;
+    font-size: 50px;
+}
